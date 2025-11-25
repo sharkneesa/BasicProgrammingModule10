@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("For decepticons shockwave is the coolest\n");
+
+    
+    printf("For autobots ofc optimus is the best! \n");
     return 0;
 }

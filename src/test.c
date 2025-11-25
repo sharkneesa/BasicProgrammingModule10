@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Kirameku Line!\n");
+    printf("For autobots ofc optimus is the best!\n");
     return 0;
 }

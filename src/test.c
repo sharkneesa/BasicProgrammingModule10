@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Kirameku Line!\n");
+    printf("SHockwave is the coolest decepticon HIGHKEY!\n");
     return 0;
 }

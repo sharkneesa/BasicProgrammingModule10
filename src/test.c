@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("SHockwave is the coolest decepticon HIGHKEY!\n");
+    printf("For decepticons shockwave is the coolest\n");
     return 0;
 }
